@@ -7,3 +7,6 @@ machine learning basics
 
 
 sequence training
+
+
+SGD from 2 ~ 3
