@@ -9,4 +9,4 @@ machine learning basics
 sequence training
 
 
-SGD from 2 ~ 3
+SGD from 2 PM  and 3 PM
